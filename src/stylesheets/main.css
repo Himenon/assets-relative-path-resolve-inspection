@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "OpenSans-Bold";
+  font-weight: normal;
+  font-style: normal;
+  src: url("../Open_Sans/OpenSans-Bold.tff") format("tff");
+}
+
+body {
+  font-family: "OpenSans-Bold";
+}
+
+h1 {
+  font-family: "OpenSans-Bold";
+  color: green;
+}
+
+.logo {
+  width: 465px;
+  height: 141px;
+  background-image: url("../../assets2/images/express-logo.png");
+}
